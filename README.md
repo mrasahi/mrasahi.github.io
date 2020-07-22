@@ -3,6 +3,9 @@ Homework 02 - Makoto Asahi
 # Summary
 Project was reset.
 
+Index, portfolio, contact pages made.
+Navbar works and is consistent accross 
+
 
 
 ## Directions
