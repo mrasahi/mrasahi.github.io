@@ -25,7 +25,7 @@ Kept amuzing placeholder header.
 
 `Contact` page layout is done. Not hooked up yet.
 
-
+> Picture/More info planned to have JS buttons 
 
 
 
