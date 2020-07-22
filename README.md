@@ -4,7 +4,12 @@ Homework 02 - Makoto Asahi
 Project was reset.
 
 Index, portfolio, contact pages made.
-Navbar works and is consistent accross 
+Uses semantic html tags.
+Navbar works and is consistent accross pages
+Navbar is highlighted on active page and disabled link
+Responsive layout for large, medium, and small (mobile) screen width.
+Images scale up and down when changing width as well.
+
 
 
 
