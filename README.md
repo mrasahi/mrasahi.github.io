@@ -23,6 +23,8 @@ Kept amuzing placeholder header.
 
 `About me` and `Portfolio` are lacking material to put in.
 
+`Contact` page layout is done. Not hooked up yet.
+
 
 
 
