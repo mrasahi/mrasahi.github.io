@@ -3,7 +3,7 @@ Homework 02 - Makoto Asahi
 # Summary
 Project was reset.
 
-Index, portfolio, contact pages made.
+`index`, `portfolio`, `contact` pages made.
 
 Uses semantic html tags.
 
@@ -16,9 +16,12 @@ Responsive layout for large, medium, and small (mobile) screen width.
 Images scale up and down when changing width as well.
 
 Clicking images will open in a new tab
-
 > Working on a image enlarge/image popout.
 
+Kept amuzing placeholder header.
+> Plan to add a button to turn on/off after learning JS.
+
+`About me` and `Portfolio` are lacking material to put in.
 
 
 
