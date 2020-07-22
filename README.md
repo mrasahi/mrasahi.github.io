@@ -28,6 +28,8 @@ Kept amuzing placeholder header.
 
 
 
+
+
 ## Directions
 * Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
 

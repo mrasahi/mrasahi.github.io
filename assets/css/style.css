@@ -13,3 +13,8 @@ main {
 #skeletonHeader {
     background-image: url(../img/graveParty.gif);
 }
+
+form {
+    padding: 20px;
+    margin: 50px;
+}
