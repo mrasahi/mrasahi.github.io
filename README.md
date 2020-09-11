@@ -1,5 +1,7 @@
 # mrasahi.github.io
 Homework 02 - Makoto Asahi
+https://mrasahi.github.io/
+
 # Summary
 Project was reset.
 
